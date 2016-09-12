@@ -1,7 +1,7 @@
 
 var Benchmark = require('benchmark');
 
-\var Builder_0_15_23 = require('systemjs-builder-0.15.23');
+var Builder_0_15_23 = require('systemjs-builder-0.15.23');
 var Builder_0_15_31 = require('systemjs-builder-0.15.31');
 
 
